@@ -1,0 +1,21 @@
+{
+  "name": "@feast-it/tahini-and-the-temple-of-doom",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"next dev -p 3001\" \"npm run open\"",
+    "open": "open http://localhost:3001"
+  },
+  "dependencies": {
+    "eslint-config-next": "^13.2.3",
+    "next": "^13.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.4",
+    "@types/react": "18.0.28",
+    "concurrently": "^7.6.0",
+    "opener": "^1.5.2"
+  }
+}
