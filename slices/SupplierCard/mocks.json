@@ -1,0 +1,52 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Positive"
+            }
+          }
+        ]
+      },
+      "tagline": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Duis consectetur exercitation ipsum reprehenderit. Minim voluptate cillum quis dolore aliqua mollit ad minim aliquip."
+            }
+          }
+        ]
+      },
+      "image": {
+        "__TYPE__": "LinkContent",
+        "value": {
+          "id": "mock_Media_link",
+          "kind": "image/jpeg",
+          "name": "mock_name",
+          "url": "https://source.unsplash.com/daily",
+          "size": "0",
+          "__TYPE__": "FileLink"
+        }
+      },
+      "rating": {
+        "__TYPE__": "FieldContent",
+        "value": "2",
+        "type": "Number"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]
