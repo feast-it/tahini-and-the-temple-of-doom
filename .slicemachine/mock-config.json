@@ -1,0 +1,12 @@
+{
+  "slices": {
+    "SupplierCard": {
+      "default": {
+        "primary": {}
+      }
+    }
+  },
+  "_cts": {
+    "suppliers": {}
+  }
+}
